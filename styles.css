@@ -1,0 +1,48 @@
+body {
+    background-color: linen;
+    margin: 8px;
+    padding: 25px 80px;
+    display: block;
+    line-height: 1.5em;
+    font-size: 16px;
+    font-family: 'Lora', serif;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+    display: block;
+}
+#author {
+    color: dimgray;
+    text-align: center;
+    border: 3px solid darkslateblue;
+    border-radius: 10px;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+#big-coins {
+    margin-left: 10%;
+}
+#testP {
+    font-family: 'Merriweather', serif;
+}
+.funParagraph {
+    color: green;
+}
+.coin-table {
+    margin-left: 10%;
+    /* width: 60%; */
+    /* padding: 5px; */
+}
+.main-photo {
+    margin-left: 10%;
+    border: 5px ridge burlywood;
+}
+.photo {
+    border: 5px ridge burlywood;
+    display: inline;
+}
+.caption {
+    margin-left: 10%;
+}
